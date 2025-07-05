@@ -1,0 +1,8 @@
+{
+  "name": "hayase-font-force",
+  "version": "1.0.0",
+  "description": "Força o tamanho da fonte para 13px em toda a interface do Hayase.",
+  "author": "Lorde dos Mistérios",
+  "entry": "main.js",
+  "style": "style.css"
+}
